@@ -64,7 +64,7 @@ Create an elbow plot to identify the best number of clusters. Make sure to do th
 
 * If possible, determine where the elbow of the plot is, and at which value of `k` it appears.
 
-* ![image](https://user-images.githubusercontent.com/106934375/200480364-7be6c4a2-c910-4c21-904d-46e18ef064c6.png)
+ ![image](https://user-images.githubusercontent.com/106934375/200480364-7be6c4a2-c910-4c21-904d-46e18ef064c6.png)
 
 ### Part 4: Make a Recommendation
 
