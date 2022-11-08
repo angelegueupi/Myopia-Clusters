@@ -39,6 +39,9 @@ This activity is broken down into four parts:
 ### Part 2: Apply Dimensionality Reduction
 
 1. Perform dimensionality reduction with PCA. How did the number of the features change?
+2. 
+3. ![image](https://user-images.githubusercontent.com/106934375/200479836-cbd11e9b-5906-4cb7-a1db-7908c2fe7099.png)
+
 
 
   * **Hint:** Rather than specify the number of principal components when you instantiate the PCA model, state the desired **explained variance**. For example, say that a dataset has 100 features. Using `PCA(n_components=0.99)` creates a model that will preserve approximately 99% of the explained variance, whether that means reducing the dataset to 80 principal components or 3. For this assignment, preserve 90% of the explained variance in dimensionality reduction.
@@ -46,14 +49,24 @@ This activity is broken down into four parts:
 2. Further reduce the dataset dimensions with t-SNE and visually inspect the results. To do this, run t-SNE on the principal components, which is the output of the PCA transformation. 
 
 3. Create a scatter plot of the t-SNE output. Are there distinct clusters?
+4. ![image](https://user-images.githubusercontent.com/106934375/200479662-1912539e-ae95-4e90-ac63-4d7c54b36377.png)
+
 
 ### Part 3: Perform a Cluster Analysis with K-means
 
 Create an elbow plot to identify the best number of clusters. Make sure to do the following:
+![image](https://user-images.githubusercontent.com/106934375/200480184-d21ceaa0-fa61-4fc2-a896-c5e09ff588a2.png)
+
 
 * Use a `for` loop to determine the inertia for each `k` between 1 through 10. 
+* ![image](https://user-images.githubusercontent.com/106934375/200480020-561d0352-48b4-4413-bbbd-63c8ff151385.png)
+
 
 * If possible, determine where the elbow of the plot is, and at which value of `k` it appears.
+* 
+* ![image](https://user-images.githubusercontent.com/106934375/200480364-7be6c4a2-c910-4c21-904d-46e18ef064c6.png)
+
+* 
 
 ### Part 4: Make a Recommendation
 
