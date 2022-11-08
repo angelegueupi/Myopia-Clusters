@@ -70,10 +70,7 @@ Create an elbow plot to identify the best number of clusters. Make sure to do th
 
 Based on your findings, write up a brief (one or two sentences) recommendation for your supervisor in your Jupyter Notebook. Can the patients be clustered? If so, into how many clusters? 
 
-## Rubric
-
-[Unit 20 Homework Rubric](https://docs.google.com/document/d/1046PZMnFwxcNkyIewuJc_RYhaErY42HoNUKORkh18A4/edit)
-
+## The elbow curve and the 3D scatter plots show that the patients can be grouped into 5 or 6 clusters. I would recommend to group the patients into 5 clusters because the elbow curve is more flat after 5 and we may be over fitting the data if we group the patients into 6 clusters.
 
 ## References
 
