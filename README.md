@@ -32,7 +32,7 @@ This activity is broken down into four parts:
 
 2. Remove the "MYOPIC" column from the dataset.
 
-    * **Note:** The target column is needed for supervised machine learning, but it will make an unsupervised model biased. After all, the target column is effectively providing clusters already! 
+     **Note:** The target column is needed for supervised machine learning, but it will make an unsupervised model biased. After all, the target column is effectively providing clusters already! 
 
 3. Standardize your dataset so that columns that contain larger values do not influence the outcome more than columns with smaller values.
 
@@ -62,7 +62,7 @@ Create an elbow plot to identify the best number of clusters. Make sure to do th
 * ![image](https://user-images.githubusercontent.com/106934375/200480020-561d0352-48b4-4413-bbbd-63c8ff151385.png)
 
 
-* If possible, determine where the elbow of the plot is, and at which value of `k` it appears.
+ If possible, determine where the elbow of the plot is, and at which value of `k` it appears.
 
  ![image](https://user-images.githubusercontent.com/106934375/200480364-7be6c4a2-c910-4c21-904d-46e18ef064c6.png)
 
