@@ -63,10 +63,9 @@ Create an elbow plot to identify the best number of clusters. Make sure to do th
 
 
 * If possible, determine where the elbow of the plot is, and at which value of `k` it appears.
-* 
+
 * ![image](https://user-images.githubusercontent.com/106934375/200480364-7be6c4a2-c910-4c21-904d-46e18ef064c6.png)
 
-* 
 
 ### Part 4: Make a Recommendation
 
@@ -76,13 +75,11 @@ Based on your findings, write up a brief (one or two sentences) recommendation f
 
 [Unit 20 Homework Rubric](https://docs.google.com/document/d/1046PZMnFwxcNkyIewuJc_RYhaErY42HoNUKORkh18A4/edit)
 
-- - -
 
 ## References
 
 Reduced dataset from [Orinda Longitudinal Study of Myopia conducted by the US National Eye Institute](https://clinicaltrials.gov/ct2/show/NCT00000169)
 
-- - -
 
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
