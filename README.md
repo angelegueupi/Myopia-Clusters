@@ -18,9 +18,6 @@ This activity is broken down into four parts:
 
 * Part 1: Prepare the Data
 
-![image](https://user-images.githubusercontent.com/106934375/200479143-2050434d-a283-4c96-ba3b-a826d8d70717.png)
-
-
 * Part 2: Apply Dimensionality Reduction 
 
 * Part 3: Perform a Cluster Analysis with K-means
@@ -28,6 +25,8 @@ This activity is broken down into four parts:
 * Part 4: Make a Recommendation 
 
 ### Part 1: Prepare the Data
+![image](https://user-images.githubusercontent.com/106934375/200479273-e9fc4fbb-e7ba-4195-977c-6ebf1bed36f5.png)
+
 
 1. Read `myopia.csv` into a Pandas DataFrame.
 
