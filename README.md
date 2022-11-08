@@ -39,8 +39,8 @@ This activity is broken down into four parts:
 ### Part 2: Apply Dimensionality Reduction
 
 1. Perform dimensionality reduction with PCA. How did the number of the features change?
-2. 
-3. ![image](https://user-images.githubusercontent.com/106934375/200479836-cbd11e9b-5906-4cb7-a1db-7908c2fe7099.png)
+
+![image](https://user-images.githubusercontent.com/106934375/200479836-cbd11e9b-5906-4cb7-a1db-7908c2fe7099.png)
 
 
 
