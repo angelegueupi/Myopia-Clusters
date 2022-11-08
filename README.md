@@ -66,7 +66,6 @@ Create an elbow plot to identify the best number of clusters. Make sure to do th
 
 * ![image](https://user-images.githubusercontent.com/106934375/200480364-7be6c4a2-c910-4c21-904d-46e18ef064c6.png)
 
-
 ### Part 4: Make a Recommendation
 
 Based on your findings, write up a brief (one or two sentences) recommendation for your supervisor in your Jupyter Notebook. Can the patients be clustered? If so, into how many clusters? 
